@@ -16,9 +16,9 @@
 
 ## 运行效果图
 
-![doc07](.\doc07.PNG)
+![doc07](./doc07.PNG)
 
-![doc03](.\doc03.png)
+![doc03](./doc03.png)
 
 ![doc04](./doc04.PNG)
 
@@ -36,8 +36,8 @@
 
 改路径，将图中数据来源路径换成自己的
 
-![doc08](.\doc08.PNG)
+![doc08](./doc08.PNG)
 
-![doc09](.\doc09.PNG)
+![doc09](./doc09.PNG)
 
 数据库文件在服务器中代码创建。
